@@ -172,7 +172,7 @@ const TypingAnimationWithNavbar: React.FC = () => {
                     transition-all duration-500 ease-in-out">                
               <img
                   className="card__background absolute inset-0 object-cover w-full h-full group-hover:scale-130 transition-transform duration-500 ease-in"
-                  src="/src/images/jcc-mockup.jpg"
+                  src="/public/images/jcc-mockup.jpg"
                   alt="Jockey's Conference Center"
                   width="1920"
                   height="2193"
@@ -216,7 +216,7 @@ const TypingAnimationWithNavbar: React.FC = () => {
                     transition-all duration-500 ease-in-out">                
               <img
                 className="card__background absolute inset-0 object-cover w-full h-full group-hover:scale-130 transition-transform duration-500 ease-in"
-                src="/src/images/dooit-2-mockup.jpg"
+                src="/public/images/dooit-2-mockup.jpg"
                 alt="DOOIT"
                 width="1920"
                 height="2193"
@@ -287,7 +287,7 @@ const TypingAnimationWithNavbar: React.FC = () => {
                     transition-all duration-500 ease-in-out">                
                   <img
                   className="card__background absolute inset-0 object-cover w-full h-full group-hover:scale-130 transition-transform duration-500 ease-in"
-                  src="/src/images/summe-mockup.jpg"
+                  src="/public/images/summe-mockup.jpg"
                   alt="SumMe"
                   width="1920"
                   height="2193"
@@ -349,7 +349,7 @@ const TypingAnimationWithNavbar: React.FC = () => {
                     transition-all duration-500 ease-in-out">                
                   <img
                   className="card__background absolute inset-0 object-cover w-full h-full group-hover:scale-130 transition-transform duration-500 ease-in"
-                  src="/src/images/wastenot-mockup.jpg"
+                  src="/public/images/wastenot-mockup.jpg"
                   alt="WasteNot"
                   width="1920"
                   height="2193"
@@ -375,7 +375,7 @@ const TypingAnimationWithNavbar: React.FC = () => {
                       />
                     </svg>
                     <div className="w-12 h-12 pt-3">
-                      <img src="/src/images/php-icon.png" alt="" />
+                      <img src="/public/images/php-icon.png" alt="" />
                     </div>
                     <svg 
                     viewBox="0 0 256 154" 
@@ -408,7 +408,7 @@ const TypingAnimationWithNavbar: React.FC = () => {
                     transition-all duration-500 ease-in-out">                
                   <img
                   className="card__background absolute inset-0 object-cover w-full h-full group-hover:scale-130 transition-transform duration-500 ease-in"
-                  src="/src/images/planease.jpg"
+                  src="/public/images/planease.jpg"
                   alt="PlanEase"
                   width="1920"
                   height="2193"
@@ -480,7 +480,7 @@ const TypingAnimationWithNavbar: React.FC = () => {
                     transition-all duration-500 ease-in-out">                
                   <img
                   className="card__background absolute inset-0 object-cover w-full h-full group-hover:scale-130 transition-transform duration-500 ease-in"
-                  src="/src/images/comingsoon.jpg"
+                  src="/public/images/comingsoon.jpg"
                   alt="Coming Soon"
                   width="1920"
                   height="2193"
@@ -509,7 +509,7 @@ const TypingAnimationWithNavbar: React.FC = () => {
             <article className="card w-[80vw] max-w-[32vw] h-[32vw] relative overflow-hidden rounded-xl shadow-lg group hover:scale-105 transition-transform duration-500 ease-in">
               <img
                 className="card__background absolute inset-0 object-cover w-full h-full group-hover:scale-130 transition-transform duration-500 ease-in"
-                src="/src/images/Foto2.jpg"
+                src="/public/images/Foto2.jpg"
                 alt="Photo of Cartagena's cathedral at the background and some colonial style houses"
                 width="1920"
                 height="2193"
