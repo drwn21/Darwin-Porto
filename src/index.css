@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Blinking cursor effect */
+.blinking-cursor {
+  display: inline-block;
+  width: 10px;
+  height: 20px;
+  background-color: white;
+  margin-left: 5px;
+  animation: blink 0.7s infinite;
+}
+
+html {
+    scroll-behavior: smooth;
+  } 
+
+
